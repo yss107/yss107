@@ -22,11 +22,12 @@ I'm a passionate Machine Learning Engineer and developer from Jodhpur, India. I 
   <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
 - 📊 **Interests:** Machine Learning, Computer Vision, Data Engineering, Cloud, and API Development
 - ✍️ **Publications:** [SmartShop: Personalized Grocery Recommendations (ICONIC2023)](https://github.com/yss107/SmartShop.io)  
   [Prediction Model for Flight Fare: A Generic Review (ETEMPS 2024)](https://github.com/yss107)
 
-## 🚀 Projects
+## 🚀 Project
 
 - [**SmartShop.io**](https://github.com/yss107/SmartShop.io): Personalized grocery item recommendation system using ML & deep learning.
 - [**Retail Store Analytics**](https://github.com/yss107): Computer vision & SQL-powered retail analytics platform for real-time insights.
