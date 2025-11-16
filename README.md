@@ -80,8 +80,8 @@ I'm a passionate **Machine Learning Engineer** and developer from 🇮🇳 Jodhp
 
 <div align="center">
 
-### 🛒 [SmartShop.io](https://github.com/yss107/SmartShop.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yss107&repo=SmartShop.io&theme=tokyonight)](https://github.com/yss107/SmartShop.io)
+### 🛒 [SmartShops.io](https://github.com/yss107/SmartShops.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yss107&repo=SmartShops.github.io&theme=tokyonight)](https://github.com/yss107/SmartShops.github.io)
 
 **Personalized grocery item recommendation system using ML & deep learning**
 
